@@ -10,8 +10,8 @@ python app.py
 
 ## Docker
 ```
-docker pull malaohu/mobaxterm-genkey
-docker run -d -p 5000:5000 malaohu/mobaxterm-genkey
+docker pull erruicoders/mobaxterm-genkey:latest
+docker run -d -p 5000:5000 erruicoders/mobaxterm-genkey:latest
 ```
 
 
